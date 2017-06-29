@@ -1,4 +1,4 @@
-# todo-list
+# vue-example
 
 > A Vue.js project Todo-List with Vue Material
 
